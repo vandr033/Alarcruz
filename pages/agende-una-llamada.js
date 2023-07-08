@@ -28,7 +28,7 @@ const AgendeUnaLlamada = (props) => {
               <form
                 id="contacto"
                 name="contact-form"
-                action="https://formsubmit.co/sebasandrade00@gmail.com"
+                action="https://formsubmit.co/sebgonzal95@gmail.com"
                 method="POST"
                 className="agende-una-llamada-form1"
               >

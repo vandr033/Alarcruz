@@ -28,7 +28,7 @@ const SolicitarConPlano = (props) => {
               <form
                 id="contacto"
                 name="contact-form"
-                action="https://formsubmit.co/sebasandrade00@gmail.com"
+                action="https://formsubmit.co/sebgonzal95@gmail.com"
                 method="POST"
                 className="solicitar-con-plano-form1"
                 enctype="multipart/form-data"
