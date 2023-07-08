@@ -27,7 +27,7 @@ const Contactarse = (props) => {
                 method="POST"
                 className="contactarse-form1"
               >
-                                    <input type="hidden" name="_next" value="http://localhost:3000/muchas-gracias"/>
+                                    <input type="hidden" name="_next" value="https://alarcruz.vercel.app/muchas-gracias"/>
                                     <input type="hidden" name="_captcha" value="false"/>
 
 

@@ -89,7 +89,7 @@ const SolicitarConPlano = (props) => {
                   className="solicitar-con-plano-textarea textarea Small"
                 ></textarea>
                     <input type="file" name="attachment" accept="image/png, image/jpeg, image/jpg, application/pdf"/>
-                    <input type="hidden" name="_next" value="http://localhost:3000/muchas-gracias"/>
+                    <input type="hidden" name="_next" value="https://alarcruz.vercel.app/muchas-gracias"/>
                     <input type="hidden" name="_captcha" value="false"/>
 
 
